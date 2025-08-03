@@ -1,0 +1,110 @@
+[
+  {
+    "user_name": "Oleksandr",
+    "user_id": 958975442,
+    "chat_id": -4918577251,
+    "chat_type": "group",
+    "message_text": "Тестове повідомлення 1",
+    "timestamp": "11:34",
+    "status": "replied",
+    "id": 1,
+    "replied_by": null,
+    "reply_timestamp": null
+  },
+  {
+    "user_name": "Shop",
+    "user_id": 5623267997,
+    "chat_id": -4918577251,
+    "chat_type": "group",
+    "message_text": "/",
+    "timestamp": "11:34",
+    "status": "replied",
+    "id": 2,
+    "replied_by": null,
+    "reply_timestamp": null
+  },
+  {
+    "user_name": "Oleksandr",
+    "user_id": 958975442,
+    "chat_id": -4918577251,
+    "chat_type": "group",
+    "message_text": "/",
+    "timestamp": "11:34",
+    "status": "replied",
+    "id": 3,
+    "replied_by": null,
+    "reply_timestamp": null
+  },
+  {
+    "id": 4,
+    "user_name": "Oleksandr",
+    "user_id": 958975442,
+    "chat_id": -4918577251,
+    "chat_type": "group",
+    "message_text": "Тестове повідомлення 2",
+    "timestamp": "11:46",
+    "status": "manually_replied",
+    "replied_by": 958975442,
+    "reply_timestamp": "11:47"
+  },
+  {
+    "id": 5,
+    "user_name": "Oleksandr",
+    "user_id": 958975442,
+    "chat_id": -4918577251,
+    "chat_type": "group",
+    "message_text": "Тестове повідомлення 3",
+    "timestamp": "11:48",
+    "status": "replied",
+    "replied_by": null,
+    "reply_timestamp": null
+  },
+  {
+    "id": 6,
+    "user_name": "Oleksandr",
+    "user_id": 958975442,
+    "chat_id": -4918577251,
+    "chat_type": "group",
+    "message_text": "Тестове повідомлення 6",
+    "timestamp": "12:33",
+    "status": "replied",
+    "replied_by": null,
+    "reply_timestamp": null
+  },
+  {
+    "id": 7,
+    "user_name": "Viacheslav",
+    "user_id": 482517212,
+    "chat_id": -4918577251,
+    "chat_type": "group",
+    "message_text": "С",
+    "timestamp": "12:34",
+    "status": "replied",
+    "replied_by": null,
+    "reply_timestamp": null
+  },
+  {
+    "id": 8,
+    "user_name": "Oleksandr",
+    "user_id": 958975442,
+    "chat_id": -4918577251,
+    "chat_type": "group",
+    "message_text": "Повідомлення",
+    "timestamp": "13:13",
+    "status": "received",
+    "replied_by": null,
+    "reply_timestamp": null
+  },
+  {
+    "id": 9,
+    "user_name": "Oleksandr",
+    "user_id": 958975442,
+    "chat_id": -4918577251,
+    "chat_type": "group",
+    "message_text": "Ще одне повідомлення",
+    "timestamp": "13:14",
+    "status": "received",
+    "replied_by": null,
+    "reply_timestamp": null
+  }
+]
